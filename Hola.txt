@@ -1,1 +1,3 @@
 "Hola Mundo" na mentira
+C:\Users\Corcho\AndroidStudioProjects\MyApplication2\app\build\outputs\apk\debug
+(es donde se guardo la app)
